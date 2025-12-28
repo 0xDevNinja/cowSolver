@@ -1,4 +1,6 @@
 pub mod models;
+pub mod solver;
+pub mod matching;
 
 #[cfg(test)]
 mod tests {
