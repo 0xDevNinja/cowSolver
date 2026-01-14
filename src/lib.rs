@@ -6,6 +6,7 @@ pub mod pricing;
 pub mod utils;
 pub mod adapters;
 pub mod bridge;
+pub mod performance;
 pub mod daemon;
 
 #[cfg(test)]
